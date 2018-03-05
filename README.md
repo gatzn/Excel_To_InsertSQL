@@ -1,0 +1,2 @@
+# Excel_To_InsertSQL
+ExcelからInsertSQL文を作成するマクロ
